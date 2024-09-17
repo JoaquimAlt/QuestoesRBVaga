@@ -1,0 +1,1 @@
+Ligar um interruptor, ir a sala, identifiquei 1, volto para acender outro, vou à sala das lampadas identifico o que eu liguei, e a lampada desligada será o interruptor não acionado.
